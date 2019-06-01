@@ -2,6 +2,7 @@
 
 Интерполирование полиномами Лагранжа
 '''
+
 Дана функция
 
 ![equation](https://latex.codecogs.com/gif.latex?f%28x%29%3D%5Cfrac%7B1%7D%7B1&plus;25x%5E2%7D)

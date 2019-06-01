@@ -3,7 +3,6 @@
 Интерполирование полиномами Лагранжа
 '''
 Дана функция
-
 ![equation](https://latex.codecogs.com/gif.latex?f(x)=\frac{1}{1&plus;25x^2}" title="f(x)=\frac{1}{1+25x^2})
 
 где _x_ ∈ [-1; 1]

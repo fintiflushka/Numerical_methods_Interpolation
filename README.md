@@ -3,10 +3,9 @@
 Интерполирование полиномами Лагранжа
 ---
 
-Дана функция
-
-![equation](https://latex.codecogs.com/gif.latex?f%28x%29%3D%5Cfrac%7B1%7D%7B1&plus;25x%5E2%7D)
-
+                                                              Дана функция
+                                                              
+                                                       ![equation](https://latex.codecogs.com/gif.latex?f%28x%29%3D%5Cfrac%7B1%7D%7B1&plus;25x%5E2%7D)
 где _x_ ∈ [-1; 1]
 
 1. Разработана функцию `l_i(i, x, x_nodes)`, которая возвращает значение i-го базисного полинома Лагранжа, заданного на узлах с абсциссами _x_nodes_, в точке _x_.
